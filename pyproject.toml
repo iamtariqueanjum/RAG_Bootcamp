@@ -13,6 +13,7 @@ dependencies = [
     "langchain-groq>=1.1.1",
     "langchain-openai>=1.1.6",
     "pandas>=2.3.3",
+    "pymupdf>=1.26.7",
     "pypdf>=6.5.0",
     "python-dotenv>=1.2.1",
     "sentence-transformers>=5.2.0",
